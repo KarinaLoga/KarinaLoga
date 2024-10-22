@@ -65,7 +65,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">]()
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки»">](https://raw.githubusercontent.com/KarinaLoga/KarinaLoga/refs/heads/main/Internship.png)
 
 
 <br>
