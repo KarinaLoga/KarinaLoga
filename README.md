@@ -64,8 +64,9 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## Практика и стажировка
 [<img src="/Internship.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки»">](https://raw.githubusercontent.com/KarinaLoga/KarinaLoga/refs/heads/main/Internship.png)
-
+[<img src="/Stepic.png" width="280px" hspace="10px" alt="Сертификат от Степика»">](https://raw.githubusercontent.com/KarinaLoga/KarinaLoga/refs/heads/main/Stepic.png)
+[<img src="/IT Academy.png" width="280px" hspace="10px" alt="Сертификат от Samsung IT Academy»">](https://raw.githubusercontent.com/KarinaLoga/KarinaLoga/refs/heads/main/IT%20Academy.jpeg)
 
 <br>
