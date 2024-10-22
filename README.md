@@ -70,3 +70,13 @@
 [<img src="/IT%20Academy.jpeg" width="280px" hspace="10px" alt="Сертификат от Samsung IT Academy»">](https://raw.githubusercontent.com/KarinaLoga/KarinaLoga/refs/heads/main/IT%20Academy.jpeg)
 
 <br>
+
+## 🎒 Образование
+[<img src="/Diplom.jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/KarinaLoga/KarinaLoga/refs/heads/main/Diplom.jpg)
+
+<br>
+<br>
+
+## 🤝 Контакт
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:karinalogayu@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yukrlks)
